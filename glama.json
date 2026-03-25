@@ -1,0 +1,1 @@
+{"name":"FeedOracle Trust Layer","description":"Verifiable evidence for AI agents — claim verification, provenance, freshness, hallucination detection, confidence gates","category":"ai","tags":["trust","verification","evidence","provenance","ai-agents","es256k"],"tools":10,"transport":"streamable-http","endpoint":"https://mcp.feedoracle.io/trust/mcp/"}

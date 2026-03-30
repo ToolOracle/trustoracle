@@ -1,1 +1,8 @@
-{"name":"FeedOracle Trust Layer","description":"Verifiable evidence for AI agents — claim verification, provenance, freshness, hallucination detection, confidence gates","category":"ai","tags":["trust","verification","evidence","provenance","ai-agents","es256k"],"tools":10,"transport":"streamable-http","endpoint":"https://mcp.feedoracle.io/trust/mcp/"}
+{
+  "name": "trustOracle",
+  "description": "FeedOracle Trust Layer \u2014 10 MCP tools for evidence verification",
+  "repository": "https://github.com/ToolOracle/trustoracle",
+  "endpoint": "https://tooloracle.io/trust/mcp/",
+  "tools": 10,
+  "license": "MIT"
+}

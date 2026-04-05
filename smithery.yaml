@@ -1,0 +1,5 @@
+name: TrustOracle
+description: Agent trust verification — 10 tools
+endpoint: https://tooloracle.io/trust/mcp/
+transport: streamable-http
+license: MIT
